@@ -1,5 +1,5 @@
 {
-  "name": "Amitesh",
+  "name": "Amitesh Tripathi",
   "headerTaglineOne": "Hello 👋",
   "headerTaglineTwo": "I'm Amitesh Tripathi - data science & AI",
   "headerTaglineThree": "professional and start-up trailblazer",
@@ -24,76 +24,102 @@
       "title": "Twitter",
       "link": "https://twitter.com/HeyAmitesh"
     },
-    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
-    { "id": "5", "title": "Email", "link": "mailto:theamiteshtripathi@gmail.com" }
+    { "id": "4", "title": "Blog", "link": "https://theamiteshtripathi.medium.com" },
+    { "id": "5", "title": "Email", "link": "mailto:1amiteshtripathi@gmail.com" }
   ],
   "projects": [
     {
       "id": "1",
-      "title": "Project One Test",
-      "description": "Web Design",
-      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Bank Customer Segmentation",
+      "description": "BankMarketingSegmentation is a data-driven project focused on analyzing and predicting customer behavior in the context of direct marketing campaigns by a Portuguese banking institution. The primary goal of this project is to utilize machine learning techniques to predict whether a client will subscribe to a term deposit, thereby aiding in the optimization of marketing strategies.",
+      "imageSrc": "https://github.com/theamiteshtripathi/BankMarketingSegmentation/blob/trunk/assets/BMS_Banner.png",
+      "url": "https://github.com/theamiteshtripathi/BankMarketingSegmentation/tree/trunk"
     },
     {
       "id": "2",
-      "title": "Project Two",
-      "description": "Web Development",
-      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "JDParser",
+      "description": "This project is designed to extract and summarize important details from job descriptions. It can parse various kinds of job listings and extract key information such as the job title, required skills, technologies, experience level, and more. This summarized data can be saved into a Notion database for easy access and organization.",
+      "imageSrc": "https://github.com/theamiteshtripathi/JDParser/blob/trunk/assests/JDParser-image.jpg",
+      "url": "https://github.com/theamiteshtripathi/JDParser"
     },
     {
       "id": "3",
-      "title": "Project Three",
-      "description": "Design",
+      "title": "Algorithmic-Trading-Bot ",
+      "description": "UNDER CONSTRUCTION!😎",
       "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "url": "https://github.com/theamiteshtripathi/Algorithmic-Trading-Bot"
     },
     {
       "id": "4",
-      "title": "Project Four",
-      "description": "Marketing",
+      "title": "Ad Click Prediction",
+      "description": "The goal of this project is to build a predictive model that can accurately predict if a website ad will be clicked or not. This is achieved by using a variety of data mining techniques, including data preprocessing, feature engineering, exploratory data analysis (EDA), and modeling. The project concludes with an evaluation of the model's performance.",
       "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "url": "https://github.com/theamiteshtripathi/Ad-Click-Prediction"
     },
     {
       "id": "5",
-      "title": "Project Five",
-      "description": "Development",
+      "title": "Stock Sentiment Analysis",
+      "description": "The goal of this project is to predict whether the stock market will increase or decrease based on news headlines using machine learning algorithms. It uses Natural Language Processing (NLP) techniques and Machine Learning (ML) models to predict the sentiment of stock market news headlines. The prediction can be either positive (stock price will increase) or negative (stock price will decrease).",
       "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "url": "https://github.com/theamiteshtripathi/Stock-Sentiment-Analysis-NLP"
     },
     {
       "id": "6",
-      "title": "Project Six",
-      "description": "Design & Development",
+      "title": "Heart Diseases Visualization Project",
+      "description": "This project aims to analyze and visualize data related to heart diseases. The project was created in RStudio and uses RMarkdown for the scripts.",
       "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "url": "https://github.com/theamiteshtripathi/Heart-Diseases-Project"
+    },
+    {
+      "id": "7",
+      "title": "Adult Income Visualization Project",
+      "description": "The primary goal is to determine how factors like age, education, marital status, and others affect a person's income prediction. This information can be used to understand the overall positive and negative effects on personal finances, which could then impact the growth of the nation. We are attempting to understand the relationships between the features and the impact they have on our target variable.",
+      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/theamiteshtripathi/Adult-Dataset-Visualization"
+    },
+    {
+      "id": "8",
+      "title": "IPL Score Prediction",
+      "description": "Welcome to our IPL First Innings Score Prediction and Performance Analysis project! This project uses Machine Learning algorithms and Data Analysis techniques on IPL (Indian Premier League) datasets to predict the first innings score, analyze team performances, and analyze player performances.",
+      "imageSrc": "https://github.com/theamiteshtripathi/IPL-Score-Prediction/blob/main/static/ipl_banner.jpg",
+      "url": "https://github.com/theamiteshtripathi/IPL-Score-Prediction"
+    },
+    {
+      "id": "9",
+      "title": "Text Summarizer",
+      "description": "A tool for summarizing large pieces of text into concise summaries using natural language processing techniques.",
+      "imageSrc": "https://github.com/theamiteshtripathi/IPL-Score-Prediction/blob/main/static/ipl_banner.jpg",
+      "url": "https://github.com/theamiteshtripathi/textSummarizer"
     }
   ],
   "services": [
     {
       "id": "1",
-      "title": "Art Direction",
-      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+      "title": "Automation Services",
+      "description": "Discover the power of automation for your business. Our Automation Services streamline your processes, making them faster and more efficient. From automating routine tasks to implementing complex automated systems, we make your business operations smoother and more productive. Embrace the future with our cutting-edge automation solutions."
     },
     {
       "id": "2",
-      "title": "Branding",
-      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+      "title": "Data Solutions for Businesses",
+      "description": "Unlock the potential of your business data with our Data Solutions. We specialize in transforming your data into actionable insights. Whether it's through data analytics, management, or visualization, we provide tailored solutions that help you make informed decisions, understand market trends, and drive business growth. Let us turn your data into your most valuable asset."
     },
     {
       "id": "3",
-      "title": "Web Design",
-      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+      "title": "AI Products/Startups Support",
+      "description": "Step into the world of Artificial Intelligence with our AI Products/Startups Support. We are dedicated to helping startups and businesses harness the power of AI. From developing AI-driven products to integrating AI into your existing systems, our expert guidance and technical support will put you at the forefront of innovation. Join us in shaping the future with AI."
     },
     {
       "id": "4",
-      "title": "3D Design",
-      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+      "title": "Study Abroad Help",
+      "description": "Your dream of studying abroad starts here. Our Study Abroad Help service provides comprehensive assistance in every step of your journey. From selecting the right course and institution to navigating the application process and preparing for life in a new country, we're here to guide you. Let's make your study abroad experience unforgettable and successful."
     }
   ],
-  "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "aboutpara": {
+    "para1": "My name is Amitesh Tripathi, a diverse individual with a broad spectrum of interests, encompassing the rhythmic world of music, the dynamic field of technology, the philosophical aspects of religion, and the empirical nature of science. At my core, I am driven by a passion for creating businesses and products that not only have a tangible presence but also make a profound impact, contributing uniquely to society.",
+    "para2": "Currently, I am enriching my academic and professional journey through a master's degree in Data Science at Northeastern University, Boston. This pursuit is more than an academic endeavor; it's a pathway to integrating theory with practical application. My professional experience at Capgemini stands as a testament to this integration, where I engaged in innovative technology projects, honing my skills and shaping my understanding of the industry.",
+    "para3": "In the digital realm, I am known as 'theamiteshtripathi', a persona that encapsulates my professional expertise and personal insights. As a data scientist by trade, I approach the world with an analytical mindset, seeking to uncover patterns and insights in data that can drive progress and innovation.",
+    "para4": "Music is not just a hobby for me; it's a vital part of my identity. It offers me a creative outlet and a way to connect with my inner self. My belief in the power of consciousness is not just philosophical; it is practical and influences every aspect of my life. From creating harmonious melodies to solving complex data challenges, my goal is always to make things work, to drive growth, and to leave a positive impact in every endeavor I undertake."
+  },
   "resume": {
     "tagline": "👋  I'm a software engineer, product designer.",
     "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
